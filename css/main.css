@@ -1,0 +1,45 @@
+.main {
+	padding: 20px;
+	padding-top: 80px;
+	width: 960px;
+	height: 1280px;
+	margin: 0 auto;
+	/*background-image: linear-gradient(#a8eff7, #88b6f7);*/
+	background-color: rgba(255,255,255,0.7);
+}
+.wh{
+	height: 300px;
+	width: 960px;
+	display: flex;
+	justify-content: space-between;
+}
+.text {
+	font-size: 17px;
+	width: 660px;
+	margin-left: 45px;
+}
+p {
+	font-size: 21px;
+	color: black;
+}
+.bcg {
+	background-size: 100%;
+	width: 300px;
+	height: 300px;
+}
+.m1 {
+	background-image: url(../img/workhappy2.png);
+}
+.m2 {
+	background-image: url(../img/workhappy1.png);
+}
+.m3 {
+	background-image: url(../img/priem.png);
+	height: 280px;
+}
+.psb {
+	margin: 0 auto;
+}
+.footer {
+	width: 1000px;
+}

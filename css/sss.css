@@ -1,0 +1,46 @@
+.main {
+	padding-top: 75px;
+	width: 960px;
+	height: 1000px;
+	margin: 0 auto;
+	/*background-image: linear-gradient(#a8eff7, #88b6f7);*/
+	background-color: rgba(255,255,255,0.7);
+}
+.man1, .man2, .man3 {
+	margin-left: 40px;
+	border: solid;
+	border-color: black;
+	border-radius: 5px;
+	display: flex;
+	justify-content: space-between;
+	height: 250px;
+	width: 610px;
+}
+.bcg {
+	background-size: 100%;
+	height: 250px;
+	width: 250px;
+}
+.m1 {
+	background-image: url(../img/man1.png);
+}
+.m2 {
+	background-image: url(../img/man2.png);
+}
+.m3 {
+	background-image: url(../img/man3.png);
+}
+
+.text {
+	height: 250px;
+	width: 360px;
+}
+h1 {
+	font-size: 21px;
+}
+.text, h1, p {
+	color: black;
+}
+p {
+	font-size: 17px;
+}
